@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAnguix.Extensions", "AAnguix.Extensions\AAnguix.Extensions.csproj", "{C5888DF8-F4EC-4713-A8FA-8AB307EEC1FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5888DF8-F4EC-4713-A8FA-8AB307EEC1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5888DF8-F4EC-4713-A8FA-8AB307EEC1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5888DF8-F4EC-4713-A8FA-8AB307EEC1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5888DF8-F4EC-4713-A8FA-8AB307EEC1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832D7A42-24AF-407D-9A61-362775A47859}
+	EndGlobalSection
+EndGlobal
