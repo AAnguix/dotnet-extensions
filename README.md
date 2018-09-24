@@ -10,7 +10,7 @@ var utcNow = TimeProvider.Current.UtcNow();
 When testing your classes, you can replace your implementation as follows:
 
 ```c#
-TimeProvider.Current = new FakeTimeProvider();
+TimeProvider.Current = new MyFakeTimeProvider();
 
 public class MyFakeTimeProvider : TimeProvider
 {
